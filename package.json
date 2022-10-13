@@ -1,0 +1,19 @@
+{
+  "name": "wi-render",
+  "version": "1.0.0",
+  "description": "canvas class library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WizardEpoch/Wi-Render.git"
+  },
+  "author": "WizardEpoch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WizardEpoch/Wi-Render/issues"
+  },
+  "homepage": "https://github.com/WizardEpoch/Wi-Render#readme"
+}
